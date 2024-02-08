@@ -15,12 +15,12 @@ This HTML page is designed to display certain contents on a page using a block s
 - Designed with easily customizable CSS.
 
 ## Technologies Used
-
-This project is developed using HTML and CSS.
-
+HTML
+CSS
+JS
 ## Screenshots
 
-![Screenshot of the Block Page](screenshot.png)
+![Screenshot of the Block Page](./assent/Screenshot_1.jpg)
 
 ## Live Example
 
